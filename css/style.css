@@ -24,3 +24,8 @@ header {
 .lyrics p {
     margin: 40px 0;
 }
+
+footer {
+    text-align: center;
+    font-size: 12px;
+}
