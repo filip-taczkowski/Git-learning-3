@@ -19,6 +19,7 @@ header {
 .lyrics {
     font-family: 'Mansalva', cursive;
     text-align: center;
+    background: #cfcfcf;
 }
 
 .lyrics p {
